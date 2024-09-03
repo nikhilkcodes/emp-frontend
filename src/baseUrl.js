@@ -1,3 +1,3 @@
-const baseUrl = "https://emp-backend-a3f7bpaphzfqhfbc.centralindia-01.azurewebsites.net";
+const baseUrl = "https://mynodeemp-b4ema5fvhyh3ewfg.eastus-01.azurewebsites.net";
 
 export default baseUrl;
